@@ -52,11 +52,30 @@ h1{
   }
   
   
-  
+
  
- 
+ /*middle banner*/
+ .middle-banner{
+   display: flex; 
+   justify-content: space-around;
+   margin-top:100px;
+ }
 
+ .drem{
+    width:50%:
+ }
 
-
-
+ .drem img{
+    width:80%;
+ }
   
+  .style-img{
+     background-image: url(/images/dream-bg.png);
+ }
+
+
+ .middle-banner{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right; 
+ }
